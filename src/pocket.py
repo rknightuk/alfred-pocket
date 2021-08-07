@@ -185,7 +185,7 @@ def filter_and_add_items(links, user_input):
                     title,
                     subtitle,
                     arg=link['given_url'],
-                    uid=link['given_url'],
+                    uid='',
                     valid=True
                 )
     if WF._items == []:
