@@ -1,5 +1,11 @@
-Pocket for Alfred [![Build Status](https://travis-ci.org/fniephaus/alfred-pocket.svg?branch=master)](https://travis-ci.org/fniephaus/alfred-pocket) [![Coverage Status](https://coveralls.io/repos/github/fniephaus/alfred-pocket/badge.svg?branch=master)](https://coveralls.io/github/fniephaus/alfred-pocket?branch=master)
-==============
+# Pocket for Alfred 
+
+My fork of [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket) with some tweaks for my preferences:
+
+- Don't set a UID for the list filter; show items in the order they were saved, latest first
+- Only show the URL in the subtitle, no other data
+
+---
 
 This workflow lets you manage your Pocket list with Alfred.
 
